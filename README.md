@@ -10,5 +10,7 @@ Kami sedang belajar HTML dasar pada matakuliah Pemrograman Web di prodi Teknik I
 Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling mendukung sehingga menjadi satu kesatuan.  
 
 ### Menambahkan Gambar
-<<img width="851" height="562" alt="Screenshot 2025-09-22 134332" src="https://github.com/user-attachments/assets/23736485-f1c2-4b0b-a54b-ac68f72648fe" />
-"># lab1web
+<img width="1554" height="899" alt="Screenshot 2025-09-22 135955" src="https://github.com/user-attachments/assets/b927f10a-6471-4f17-a56d-1a7f10b889ec" />
+ lab1web
+<img width="1554" height="899" alt="Screenshot 2025-09-22 135955" src="https://github.com/user-attachments/assets/f52af8fd-04af-4024-b789-61252e758296" />
+
